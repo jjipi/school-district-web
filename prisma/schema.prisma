@@ -1,0 +1,111 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model School {
+  id            String   @id @default(cuid())
+  name          String
+  pinyin        String?  // 拼音
+  type          String   // 小学/初中
+  level         String?  // 区重点/市重点
+  district      String  // 区县
+  address       String?
+  latitude      Float?
+  longitude     Float?
+  rating        Float?  // 评分
+  studentCount  Int?    // 学生数
+  teacherCount Int?    // 教师数
+  features     String?  // 特色
+  cityId        String   @default("Shanghai")
+  source        String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  districts     SchoolDistrict[]
+  communities  Community[]   @relation("SchoolCommunities")
+}
+
+model Community {
+  id          String   @id @default(cuid())
+  name        String
+  pinyin      String?
+  district    String
+  address     String?
+  latitude    Float?
+  longitude   Float?
+  buildYear  Int?
+  developer  String?
+  avgPrice    Int?     // 均价(元/平)
+  cityId      String   @default("Shanghai")
+  source      String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  schoolId    String?
+  school     School?   @relation("SchoolCommunities", fields: [schoolId], references: [id])
+
+  houses      House[]
+  districts   SchoolDistrict[]
+}
+
+model SchoolDistrict {
+  id            String   @id @default(cuid())
+  schoolId       String
+  communityId    String
+  admissionType  String?  // 录取方式
+  year          Int      @default(2025) // 学年
+
+  school        School    @relation(fields: [schoolId], references: [id])
+  community     Community @relation(fields: [communityId], references: [id])
+
+  @@unique([schoolId, communityId, year])
+}
+
+model House {
+  id            String   @id @default(cuid())
+  communityId    String
+  title         String
+  price         Int      // 总价(万元)
+  unitPrice     Int      // 单价(元/平)
+  area          Float    // 面积(平)
+  rooms         Int      // 几室
+  halls         Int      // 几厅
+  floor        Int?     // 楼层
+  totalFloor   Int?     // 总楼层
+  orientation  String?  // 朝向
+  decoration   String?  // 装修
+  status       String   @default("在售")
+  cityId       String   @default("Shanghai")
+  source       String?
+  createdAt    DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+
+  community    Community  @relation(fields: [communityId], references: [id])
+}
+
+model User {
+  id          String   @id @default(cuid())
+  email       String   @unique
+  name        String?
+  avatar      String?
+  createdAt   DateTime @default(now())
+
+  favorites   Favorite[]
+}
+
+model Favorite {
+  id          String   @id @default(cuid())
+  userId      String
+  type        String   // school / community / house
+  targetId    String
+  createdAt   DateTime @default(now())
+
+  user        User     @relation(fields: [userId], references: [id])
+
+  @@unique([userId, type, targetId])
+}
