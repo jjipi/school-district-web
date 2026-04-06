@@ -139,6 +139,19 @@ export default async function SchoolDetailPage({ params }: Props) {
                 </CardContent>
               </Card>
             )}
+
+            {/* 风险提示 */}
+            <Card className="mt-6 border-orange-200 bg-orange-50">
+              <CardContent className="p-4">
+                <h3 className="font-bold text-orange-800 mb-2">⚠️ 风险提示</h3>
+                <ul className="text-sm text-orange-700 space-y-1">
+                  <li>• 学区划分可能因政策调整而变化，请以教育局官方公布为准</li>
+                  <li>• 部分学校实行"五年一户"政策，同一地址五年内只安排一次入学</li>
+                  <li>• 热门学校可能存在学位紧张情况，建议提前了解学校招生简章</li>
+                  <li>• 购房前请确认房产是否在学区范围内，并咨询相关部门</li>
+                </ul>
+              </CardContent>
+            </Card>
           </div>
 
           {/* Sidebar */}
