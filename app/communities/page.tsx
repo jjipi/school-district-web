@@ -39,7 +39,6 @@ export default async function CommunitiesPage({ searchParams }: Props) {
             <Link href="/communities" className="text-blue-600 font-medium">小区</Link>
             <Link href="/houses" className="text-gray-600 hover:text-gray-900">房源</Link>
             <Link href="/policy" className="text-gray-600 hover:text-gray-900">政策</Link>
-            <Link href="/map" className="text-gray-600 hover:text-gray-900">地图</Link>
           </nav>
         </div>
       </header>
