@@ -68,7 +68,9 @@ export default async function HousesPage({ searchParams }: { searchParams: Promi
           </Link>
           <nav className="flex gap-4 text-sm">
             <Link href="/schools" className="text-gray-600 hover:text-gray-900">学校</Link>
+            <Link href="/communities" className="text-gray-600 hover:text-gray-900">小区</Link>
             <Link href="/houses" className="text-blue-600 font-medium">房源</Link>
+            <Link href="/policy" className="text-gray-600 hover:text-gray-900">政策</Link>
             <Link href="/map" className="text-gray-600 hover:text-gray-900">地图</Link>
           </nav>
         </div>
