@@ -8,6 +8,10 @@
     "start": "next start",
     "lint": "eslint",
     "db:seed": "npx ts-node prisma/seed.ts",
+    "scraper": "npx ts-node scripts/auto_scraper.ts",
+    "scraper:discover": "npx ts-node scripts/auto_scraper.ts --discover",
+    "scraper:source": "npx ts-node scripts/auto_scraper.ts --source",
+    "scraper:all": "npx ts-node scripts/auto_scraper.ts --all",
     "postinstall": "prisma generate"
   },
   "dependencies": {
@@ -19,15 +23,18 @@
     "@radix-ui/react-slot": "^1.2.4",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "leaflet": "^1.9.4",
     "lucide-react": "^1.7.0",
     "next": "16.2.2",
     "prisma": "^5.22.0",
     "react": "19.2.4",
     "react-dom": "19.2.4",
+    "react-leaflet": "^5.0.0",
     "tailwind-merge": "^3.5.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/leaflet": "^1.9.21",
     "@types/node": "20.19.39",
     "@types/react": "^19",
     "@types/react-dom": "^19",

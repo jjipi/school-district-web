@@ -3,6 +3,7 @@ import { notFound } from "next/navigation"
 import { prisma } from "@/lib/prisma"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { MapPin, Home, ArrowLeft, Calendar } from "lucide-react"
+import { FavoriteButton } from "@/components/ui/favorite-button"
 
 interface Props {
   params: Promise<{ id: string }>
@@ -43,8 +44,10 @@ export default async function CommunityDetailPage({ params }: Props) {
           </Link>
           <nav className="flex gap-4 text-sm">
             <Link href="/schools" className="text-gray-600 hover:text-gray-900">学校</Link>
-            <Link href="/communities" className="text-gray-600 hover:text-gray-900">小区</Link>
+            <Link href="/communities" className="text-blue-600 font-medium">小区</Link>
             <Link href="/houses" className="text-gray-600 hover:text-gray-900">房源</Link>
+            <Link href="/map" className="text-gray-600 hover:text-gray-900">地图</Link>
+            <Link href="/favorites" className="text-gray-600 hover:text-gray-900">收藏</Link>
             <Link href="/policy" className="text-gray-600 hover:text-gray-900">政策</Link>
           </nav>
         </div>
@@ -61,10 +64,20 @@ export default async function CommunityDetailPage({ params }: Props) {
           <div className="lg:col-span-2">
             <Card>
               <CardHeader>
-                <CardTitle className="text-xl">{community.name}</CardTitle>
-                <div className="flex items-center gap-2 text-gray-500 mt-1">
-                  <MapPin className="w-4 h-4" />
-                  {community.district} {community.address && `· ${community.address}`}
+                <div className="flex items-start justify-between">
+                  <div>
+                    <CardTitle className="text-xl">{community.name}</CardTitle>
+                    <div className="flex items-center gap-2 text-gray-500 mt-1">
+                      <MapPin className="w-4 h-4" />
+                      {community.district} {community.address && `· ${community.address}`}
+                    </div>
+                  </div>
+                  <FavoriteButton
+                    type="community"
+                    id={community.id}
+                    name={community.name}
+                    extra={{ district: community.district, avgPrice: community.avgPrice }}
+                  />
                 </div>
               </CardHeader>
               <CardContent className="space-y-4">
