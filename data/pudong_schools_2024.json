@@ -1,0 +1,2032 @@
+{
+  "schools": [
+    {
+      "name": "上海市建平中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市进才中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市洋泾中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市上南中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市三林中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市洪山中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市清流中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦泾中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区教育学院附属实验中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市罗山中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市金杨中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市金川中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市华林中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市孙桥中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市育人中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市东林中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市施湾中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市黄楼中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市王港中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市杨园中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市东沟中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市凌桥中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市顾路中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东模范中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市川沙中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市陆行中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市致远中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区进才实验中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市蔡路中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市六团中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦兴中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市新云台中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市杨思中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市建平香梅中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市南汇第二中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市南汇第三中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市新港中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市书院中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市大团中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市坦直中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市傅雷中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市澧溪中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市六灶中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东教育发展研究院附属中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市南汇第四中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市北蔡中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市临港第一中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市南汇第五中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区进才中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市临港实验中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东模范实验中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区三灶实验中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区新场实验中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区懿德中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区建平培德实验中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区进才森兰实验中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区建平临港中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市建平实验地杰中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市建平实验张江中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区进才繁荣实验中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市历城中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市竹园中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市泾南中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市香山中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市沪新中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市育民中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市高行中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市五三中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市侨光中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市江镇中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市合庆中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市高东中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市南汇第一中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市老港中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市泥城中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市长岛中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市建平实验中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市进才实验中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市张江集团中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区彭镇中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区建平御山中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区建平康梧中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区教育学院附属实验中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区进才实验中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区民办欣竹中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区进才中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区三灶实验中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区新场实验中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区懿德中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区建平培德实验中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区进才森兰实验中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区建平临港中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区进才繁荣实验中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区彭镇中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区民办进德外国语中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区建平御山中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区建平康梧中学",
+      "type": "初中",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区上南实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区上南二村小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区上南五村小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区进才实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区德州一村小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区德州二村小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区三桥小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区杨思小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区云台小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区南码头小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区白玉兰小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区临沂二村小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区浦三路小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区东方小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区育童小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦明师范学校附属小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区明珠小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区竹园小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区昌邑小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区崂山小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区梅园小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区第二中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区华林小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区海桐小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市第六师范学校附属小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市第六师范学校第二附属小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区罗山小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区金英小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区金陆小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区香山小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区沪新小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区莱阳小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区东荷小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区凌河小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区金新小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区金茂小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区华高小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区东波小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区凌桥小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区高行小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区建平永宁小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区高行镇东沟小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区金桥镇中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区高行镇高南小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市外高桥保税区实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区顾路小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区潼港小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区杨园中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区学前小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区高桥镇小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区高东镇中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区北蔡镇中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区莲溪小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区张江镇中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区孙桥小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区凌兆小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区清源小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区林苑小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区大桥小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区三林镇中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区观澜小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区园西小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区教育学院附属小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区新城小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区东港小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区晨阳小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区黄楼小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区六团小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区施湾小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区江镇中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区蔡路逸夫小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区合庆镇中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区龚路中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区王港小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区唐镇小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区庆华小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区御桥小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区福山外国语小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区绿晨小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区世博家园实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区张江高科实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区建平实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区惠南小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区逸夫小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区荡湾小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区建平城东小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区老港小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区新港小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区书院小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区泥城小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区大团小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区坦直小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区周浦小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区周浦第二小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区周浦第三小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区澧溪小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区康桥小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区六灶小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区祝桥小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区盐仓小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区南汇外国语小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区临港外国语小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区曹路打一小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区锦绣小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区尚博实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区航城实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区福山唐城外国语小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区明珠森兰小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区明珠临港小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区建平临港小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区万科实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区康桥实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区傅雷小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区福山花园外国语小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区福山证大外国语小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区三灶实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区新场实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区石笋实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区三林实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区龚丰小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "上海市浦东新区明珠迎桥小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区公办小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区上南实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区上南二村小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区上南五村小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区进才实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区德州一村小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区德州二村小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区三桥小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区杨思小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区云台小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区南码头小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区白玉兰小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区临沂二村小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区浦三路小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区东方小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区育童小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区明珠小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区竹园小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区昌邑小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区崂山小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区梅园小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区第二中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区华林小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区海桐小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区罗山小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区金英小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区金陆小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区香山小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区沪新小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区莱阳小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区东荷小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区凌河小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区金新小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区金茂小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区华高小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区东波小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区凌桥小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区高行小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区建平永宁小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区高行镇东沟小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区金桥镇中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区高行镇高南小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区顾路小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区潼港小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区杨园中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区学前小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区高桥镇小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区高东镇中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区北蔡镇中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区莲溪小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区张江镇中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区孙桥小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区凌兆小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区清源小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区林苑小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区大桥小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区三林镇中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区观澜小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区园西小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区教育学院附属小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区新城小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区东港小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区晨阳小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区黄楼小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区六团小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区施湾小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区江镇中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区蔡路逸夫小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区合庆镇中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区龚路中心小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区王港小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区唐镇小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区庆华小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区御桥小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区福山外国语小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区绿晨小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区世博家园实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区张江高科实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区建平实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区惠南小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区逸夫小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区荡湾小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区建平城东小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区老港小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区新港小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区书院小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区泥城小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区大团小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区坦直小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区周浦小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区周浦第二小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区周浦第三小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区澧溪小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区康桥小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区六灶小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区祝桥小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区盐仓小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区南汇外国语小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区临港外国语小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区曹路打一小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区锦绣小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区尚博实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区航城实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区福山唐城外国语小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区明珠森兰小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区明珠临港小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区建平临港小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区万科实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区康桥实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区傅雷小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区福山花园外国语小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区福山证大外国语小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区三灶实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区新场实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区石笋实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区三林实验小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区龚丰小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    },
+    {
+      "name": "浦东新区明珠迎桥小学",
+      "type": "小学",
+      "district": "浦东新区",
+      "source": "pudong.gov.cn 2024"
+    }
+  ]
+}

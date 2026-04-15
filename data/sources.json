@@ -1,0 +1,37 @@
+{
+  "sources": [
+    {
+      "name": "浦东新区教育局",
+      "district": "浦东新区",
+      "url": "https://www.pudong.gov.cn/pudong-interaction-front/edu/school/list",
+      "type": "api_or_ajax",
+      "parser": "pudong_school_list",
+      "description": "浦东新区学校名录 - 动态加载页面"
+    },
+    {
+      "name": "上海市教委-浦东",
+      "district": "浦东新区",
+      "url": "https://edu.sh.gov.cn/gqzszc_pdxq/20210430/d686562eaa02484184bb1142aa3053ea.html",
+      "type": "static_page",
+      "parser": "shanghai_edu_pudong",
+      "description": "上海市教委公示的浦东学校名单"
+    }
+  ],
+  "parsers": {
+    "pudong_school_list": {
+      "type": "html",
+      "selector": "a[href*='school']",
+      "fields": ["name", "url"],
+      "note": "浦东教育局动态加载，需要API或浏览器渲染"
+    },
+    "shanghai_edu_pudong": {
+      "type": "html", 
+      "selector": "table a, li a",
+      "fields": ["name", "url"],
+      "detail": {
+        "urlPattern": "{href}",
+        "fields": ["name", "type", "address"]
+      }
+    }
+  }
+}
