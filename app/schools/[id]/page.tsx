@@ -12,21 +12,45 @@ interface Props {
 
 export default async function SchoolDetailPage({ params }: Props) {
   const { id } = await params
-  const school = await prisma.school.findUnique({
-    where: { id },
-    include: {
-      communities: true,
-    },
-  })
+
+  // 优先按 ID 查找（cuid 格式）
+  let school = await prisma.school.findUnique({ where: { id } })
+
+  // 如果找不到，尝试按名称查找（slug 格式的 URL）
+  if (!school) {
+    const decodedName = decodeURIComponent(id)
+    // 去掉 "pd-" 等前缀尝试匹配
+    const cleanName = decodedName.replace(/^[a-z]+-/i, '')
+    school = await prisma.school.findFirst({
+      where: {
+        OR: [
+          { name: decodedName },
+          { name: cleanName },
+          { name: { contains: cleanName } },
+        ],
+      },
+    })
+  }
 
   if (!school) notFound()
+
+  // 对口小区：通过 SchoolDistrict junction table 查找
+  const schoolDistricts = await prisma.schoolDistrict.findMany({
+    where: {
+      schoolId: school.id,
+      year: 2025,
+    },
+    include: { community: true },
+  })
+  const schoolCommunities = schoolDistricts.map(sd => sd.community)
 
   // Get related houses
   const relatedHouses = await prisma.house.findMany({
     where: {
-      community: {
-        schoolId: school.id,
+      communityId: {
+        in: schoolCommunities.map(c => c.id),
       },
+      status: "在售",
     },
     take: 4,
     orderBy: { price: "asc" },
@@ -126,14 +150,14 @@ export default async function SchoolDetailPage({ params }: Props) {
             </Card>
 
             {/* 对口小区 */}
-            {school.communities.length > 0 && (
+            {schoolCommunities.length > 0 && (
               <Card className="mt-6">
                 <CardHeader>
                   <CardTitle className="text-lg">对口小区</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <div className="grid gap-3 sm:grid-cols-2">
-                    {school.communities.map((c) => (
+                    {schoolCommunities.map((c) => (
                       <Link key={c.id} href={`/communities/${c.id}`}>
                         <div className="p-3 border rounded-lg hover:bg-gray-50 cursor-pointer">
                           <div className="font-medium">{c.name}</div>

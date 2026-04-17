@@ -12,10 +12,10 @@ interface Props {
 export default async function CommunityDetailPage({ params }: Props) {
   const { id } = await params
 
-  const community = await prisma.community.findUnique({
+  // 优先按 ID 查找（cuid 格式）
+  let community = await prisma.community.findUnique({
     where: { id },
     include: {
-      school: true,
       districts: {
         where: { year: 2025 },
         include: { school: true },
@@ -23,7 +23,38 @@ export default async function CommunityDetailPage({ params }: Props) {
     },
   })
 
+  // 如果找不到，尝试按名称查找（slug 格式的 URL）
+  if (!community) {
+    const decodedName = decodeURIComponent(id)
+    const cleanName = decodedName.replace(/^[a-z]+-/i, '')
+    community = await prisma.community.findFirst({
+      where: {
+        OR: [
+          { name: decodedName },
+          { name: cleanName },
+          { name: { contains: cleanName } },
+        ],
+      },
+      include: {
+        districts: {
+          where: { year: 2025 },
+          include: { school: true },
+        },
+      },
+    })
+  }
+
   if (!community) notFound()
+
+  // 对口学校：通过 SchoolDistrict junction table 查找
+  const schoolDistrict = await prisma.schoolDistrict.findFirst({
+    where: {
+      communityId: community.id,
+      year: 2025,
+    },
+    include: { school: true },
+  })
+  const communitySchool = schoolDistrict?.school || null
 
   // Get related houses
   const relatedHouses = await prisma.house.findMany({
@@ -112,27 +143,27 @@ export default async function CommunityDetailPage({ params }: Props) {
             </Card>
 
             {/* 对口学校 */}
-            {community.school && (
+            {communitySchool && (
               <Card className="mt-6">
                 <CardHeader>
                   <CardTitle className="text-lg">对口学校</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <Link href={`/schools/${community.school.id}`}>
+                  <Link href={`/schools/${communitySchool.id}`}>
                     <div className="p-4 border rounded-lg hover:bg-gray-50 cursor-pointer">
-                      <div className="font-bold text-lg">{community.school.name}</div>
+                      <div className="font-bold text-lg">{communitySchool.name}</div>
                       <div className="flex gap-2 mt-2">
-                        <span className={`px-2 py-1 rounded text-sm ${community.school.type === "小学" ? "bg-blue-100 text-blue-700" : "bg-green-100 text-green-700"}`}>
-                          {community.school.type}
+                        <span className={`px-2 py-1 rounded text-sm ${communitySchool.type === "小学" ? "bg-blue-100 text-blue-700" : "bg-green-100 text-green-700"}`}>
+                          {communitySchool.type}
                         </span>
-                        {community.school.level && (
+                        {communitySchool.level && (
                           <span className="px-2 py-1 rounded text-sm bg-purple-100 text-purple-700">
-                            {community.school.level}
+                            {communitySchool.level}
                           </span>
                         )}
                       </div>
                       <div className="text-sm text-gray-500 mt-2">
-                        {community.school.district}
+                        {communitySchool.district}
                       </div>
                     </div>
                   </Link>
